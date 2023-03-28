@@ -63,7 +63,7 @@ print('''
 The game is called Skullman. It is inspired by the game hangman.
 
 Instructions:
-You only 6 lives. If you have 6 wrong attempts, you lose.
+You only 6 or 9 lives. If you have 6 or 9 wrong attempts, you lose.
 The player wins when they completed the secret word. If the players get every letter of the word before the program shows the complete form of the skull then they win.
 ''')
 
@@ -149,33 +149,3 @@ while True:
     else:
         print('\nERROR! SHUTTING DOWN')
         break
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
