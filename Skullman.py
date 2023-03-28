@@ -1,3 +1,8 @@
+'''
+Author: Christian Jose M. Soriano
+E-mail: soriano.christianjose.m@gmail.com
+'''
+
 skull_art = [
 '███████████████████████████',
 '███████▀▀▀░░░░░░░▀▀▀███████',
