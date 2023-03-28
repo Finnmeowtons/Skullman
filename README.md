@@ -1,3 +1,7 @@
+Author: Christian Jose M. Soriano
+E-mail: soriano.christianjose.m@gmail.com
+
+
 # Skullman
 A game that is inspired by hangman.
 
